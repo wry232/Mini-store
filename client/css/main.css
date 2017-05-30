@@ -1,0 +1,45 @@
+html{
+  box-sizing: border-box;
+}
+
+.product-panel {
+  height: 175px;
+  overflow: scroll;
+  width: 200px;
+}
+
+.panel-body img {
+  width: 100%;
+}
+
+table.customer{
+  margin-top: 40px;
+}
+
+input.filter{
+  margin-top: 40px;
+}
+
+body{
+  background-image: url("/partials/product.jpg");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 420px;
+}
+
+#productDetails{
+  list-style-type: none;
+  display: block;
+  /*border: 1px solid yellow;*/
+  height: 100px;
+  width: 250px;
+  margin-left: 250px;
+}
+
+/**{
+  color: white;
+}
+
+small{
+  color: white;
+}*/
